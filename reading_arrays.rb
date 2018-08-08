@@ -8,16 +8,16 @@ STUDENT_NAMES = [
 ]
 
 def first_student_by_index
-  STUDENT_NAMES.[1]
+  STUDENT_NAMES[1]
 end
 
 def fourth_student_by_index
-  STUDENT_NAMES.(0)
+  STUDENT_NAMES[0]
   # Write a solution that returns the first student in the array student_na
 end
 
 def last_student_by_index
-  STUDENT_NAMES.[5] 
+  STUDENT_NAMES[5] 
   # Write a solution that returns the first student in the array student_names
 end
 
